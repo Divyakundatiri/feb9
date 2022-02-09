@@ -1,0 +1,7 @@
+#biggest of two numbers
+a=20
+b=30
+if(a>b):
+  print('the biggest no is',a)
+else:
+  print('the biggest no is',b)
